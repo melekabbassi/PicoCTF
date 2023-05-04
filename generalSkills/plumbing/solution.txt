@@ -1,0 +1,2 @@
+nc jupiter.challenges.picoctf.org 7480 > kept_data.txt
+grep picoCTF kept_data.txt

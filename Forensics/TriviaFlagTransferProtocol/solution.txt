@@ -1,0 +1,22 @@
+opened tftp.pcapng with wireshark
+
+then File -> export as object -> TFTP: Export all
+
+checked instructions.txt
+used ROT13.com
+  instructions --> TFTP DOESNT ENCRYPT OUR TRAFFIC SO WE MUST DISGUISE OUR FLAG TRANSFER. FIGURE OUT A WAY TO HIDE THE FLAG AND I WILL CHECK BACK FOR THE PLAN
+
+checked images.
+
+checked plan.txt
+used ROT13.com
+plan --> I USED THE PROGRAM AND HID IT WITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS
+
+steghide info picture3.bmp enetered password in PLAN "DUDEILIGENCE"
+
+steghid extract -sf picture2.bmp same pass
+
+we got flag.txt
+
+cat flag.txt
+

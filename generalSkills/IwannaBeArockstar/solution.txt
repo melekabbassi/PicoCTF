@@ -1,0 +1,5 @@
+rockstar-py -o rockstar.py -i lyrics.txt -> to generate rockstar.py file
+
+then read the song and interpret the code 
+
+make a script (translate_ascii.py) to find the flag and add the last 2 numbers manually( read the from rockstar.py)

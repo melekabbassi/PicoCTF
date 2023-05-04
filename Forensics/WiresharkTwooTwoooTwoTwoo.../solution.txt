@@ -1,0 +1,29 @@
+wireshark shark2.pcapng
+
+Analyse -> TCP: 
+
+  - stream 6 (picoCTF{bfe48e8500c454d647c55a4471985e776a07b26cba64526713f43758599aa98b})
+
+  -stream 11 (picoCTF{bda69bdf8f570a9aaab0e4108a0fa5f64cb26ba7d2269bb63f68af5d98b98245})
+
+  - stream 19 (picoCTF{fe83bcb6cfd43d3b79392f6a4232685f6ed4e7a789c2ce559cf3c1ab6adbe34b})
+
+  - stream 20 (picoCTF{711d3893d90f100c15e10ef4842abeed3a830f8237c1257cd47389646da97810})
+
+  - stream 21 (picoCTF{3cf1e22d489fcfb6bb312a34f46c8699989ed043406134331452d11ce73cd59e})
+
+  - stream 23 (picoCTF{b4cc138bb0f7f9da7e35085e349555aa6d00bdca3b021c1fe8663c0a422ce0d7})
+
+  - stream 24 (picoCTF{41b8a1a796bd8d202016f75bc5b38889e9ea06007e6b22fc856d380fb7573133})
+
+  - stream 25 (picoCTF{9812bc4be04e6f9c803152313db3da53b3dfb799bdb05aac46fa0dd0045d2fc2})
+
+  - stream 26 (picoCTF{64cf3ede3736a340fdf2954be5151ce53bec291c5e48cbccb44faa529946e249})
+
+  - stream 27 (picoCTF{c50d259a4e172fcb2eddbabeebd272473e4882b76c9efcd12c03ac04429d884a})
+
+  - stream 28 (picoCTF{0a024b7d39603756feafa2bbaa1603b14a99eae5dcd59f1d957f511d822c8c06})
+
+  - stream 29 (picoCTF{97211eec9228bb247d762527bace8b3e4ec2110c8834af12aefd3c552cdc21b2})
+
+  - stream 30 (picoCTF{29679910c47d8afc737a1c21d7bf758cd3d81001bdbeec8c6f81a6ad88fdc279})

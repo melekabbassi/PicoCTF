@@ -1,0 +1,3 @@
+nc mercury.picoctf.net 21135 > flag_in_numbers.txt
+
+create python script to make it readable. (flag_reveal.py)

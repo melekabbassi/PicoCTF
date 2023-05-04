@@ -1,0 +1,6 @@
+opened the file with wireshark.
+Analyse --> follow --> TCP 
+
+stream 5
+
+used ROT13: https://rot13.com/

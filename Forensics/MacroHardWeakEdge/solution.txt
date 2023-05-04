@@ -1,0 +1,10 @@
+biwalk -e Forensics\ is\ fun.pptm
+cd _Forensics\ is\ fun.pptm.extracted/
+unzip 0.zip 
+find -D tree | grep hidden
+cd ppt/slideMasters/
+
+used script.py 
+
+converted the given string in this site to get the flag:
+https://www.base64decode.org/

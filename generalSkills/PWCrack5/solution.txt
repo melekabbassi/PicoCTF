@@ -1,0 +1,2 @@
+pw = 9581
+used pwcrack.py script with the dictionary

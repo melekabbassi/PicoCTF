@@ -1,0 +1,3 @@
+used this site to convert the song to ASCII (the song is actually written in a programming language "rockstar"): https://codewithrockstar.com/online
+
+then decoded it using script

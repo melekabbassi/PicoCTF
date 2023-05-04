@@ -1,0 +1,3 @@
+unzip Addadshashanammu.zip
+cd Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku
+cat fang-of-haynekhtnamet

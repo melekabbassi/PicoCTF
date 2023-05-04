@@ -1,0 +1,4 @@
+chmod +x ltdis.sh
+./ltdis.sh static
+grep picoCTF static.ltdis.strings.txt---> to search word in file word(picoCTF)
+grep picoCTF static.ltdis.x86_64.txt ---> same

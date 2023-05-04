@@ -1,0 +1,5 @@
+buy fake flags and type a huge quantity > the maximum int available
+
+then go buy the real flag 
+
+this methos is using complement two from binary

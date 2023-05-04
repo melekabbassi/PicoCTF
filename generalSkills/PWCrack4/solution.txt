@@ -1,0 +1,3 @@
+pw = 607a
+
+created a script to find pw

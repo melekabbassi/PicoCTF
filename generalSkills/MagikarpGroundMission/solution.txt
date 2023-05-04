@@ -1,0 +1,4 @@
+ssh ctf-player@venus.picoctf.net -p 49445
+Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `a13b7f9d`
+
+follow instructions

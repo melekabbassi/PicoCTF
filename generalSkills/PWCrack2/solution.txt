@@ -1,0 +1,2 @@
+pw = 4ec9
+check level2.py to get the password in ASCII then convert it using python3
